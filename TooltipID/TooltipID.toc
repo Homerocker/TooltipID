@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: TooltipID
+## Version: 2.0
+## Notes: Adds spell and item IDs to the various tooltips in game
+## Author: Silverwind, Homerocker
+## Dependencies: LibItemID
+TooltipID.lua
